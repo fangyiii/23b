@@ -1,16 +1,50 @@
-# 23b
-# C110118226 林芳儀
-## C110118226 林芳儀
-### C110118226 林芳儀
-#### C110118226 林芳儀
-😄 🚲
-----
-![NKUST](logo.png"NKUST")
+# c11118226
+## 林芳儀
+***
+1. First ordered list item
 
-- [x] to do list
-- [ ] 1st thing
+2. Another item
+   
+   ..* Unordered sub-list.
+
+4. Actual numbers don't matter, just that it's a number
+   
+   ..1. Oredered sub-list
+   
+   ...2. 2nd
+
+6. And another item.
+   
+   ...* note 1
+   
+   ...* note 2
+   
+   *** note 3
+
+***
+- [ ] to do list
 - [ ] 2nd thing
-- [ ] 3rd thing
+***
 
-```python
-s = 
+python code
+```
+s = "Python syntax highlighting"
+print s
+```
+
+javascript code
+```
+var s "JavaScript syntax highlighting";
+alert(s);
+```
+***
+|   tables   |    Are   |  cool  |
+|:-----------|:--------:| -----: |
+|col 3 is |right-aligned|$1600|
+|col 2 is |centered|$12|
+|zebra stripes|are neat|$1|
+
+|   Markdown   |    Less   |  Pretty  |
+|:-----------|:--------| :----- |
+|Still |renders|**nicely**|
+|1 |2| 3|
