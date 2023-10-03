@@ -25,6 +25,8 @@ gantt
 ---
 
 ## PERT/CPM圖
+
+![PERT圖](pert.png "PERT圖")
 graphviz
 digraph {
  node[shape=record];
